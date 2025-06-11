@@ -1,0 +1,44 @@
+body {
+       margin: 0;
+       padding: 0;
+       
+   }
+.icon {
+    height: 100px;
+    margin: 20px 0 20px 0; /* ชิดซ้ายโดยเอา auto ออก */
+    padding-left: 20px;
+    display: flex;
+    align-items: center; /* จัดให้อยู่ตรงกลางแนวตั้ง */
+}
+.icon  {
+          
+       font-family: 'Arial', sans-serif; /* เปลี่ยนเป็นฟอนต์ Arial */
+         font-size: 24px; /* ขนาดฟอนต์ */    
+         color: #333; /* สีของข้อความ */
+
+   
+   
+   
+}
+.nav {
+    align-items: center; /*กึ่งกลางแนวตั้ง*/
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    gap: 16px; /* เพิ่มช่องว่างระหว่างรายการ */
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    align-items: center; /* จัดให้อยู่ตรงกลางแนวตั้ง */
+    justify-content: space-between; /* หรือใช้ flex-start ตามต้องการ */
+    background-color:slategray;
+    height: 90px;
+}
