@@ -16,7 +16,7 @@
   </p>
 
 ---
-  # ✨Display✨:
+  # ✨1.Display✨:
 
   <p>
     มีอยู่ 5 ชนิด  <br>
@@ -40,6 +40,6 @@
 
   ---
 
-  # ✨Block✨:
+  # ✨2.Block✨:
   จัดการblockภายในของdisplay เช่น padding,margin
   </p>
