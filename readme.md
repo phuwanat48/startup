@@ -1,0 +1,45 @@
+# Remind me about code
+
+<h3>:sparkles: Layout :sparkles:</h3>
+<p><h3>Block Level ⭐: </h3> 
+  //พื้นที่เต็มบรรทัด <br>
+  tags "< p >,< div >,< h1-4 >" <br>
+    ***สามารถเปลี่ยนเป็นinline levelด้วยคำสั่ง style = "display : inline;" <br>
+    
+    <div style="display : inline;" > </div>
+    
+  
+  
+  <h3>Inline Level ⭐: </h3> 
+    //พื้นที่1 block <br>
+    
+  </p>
+
+---
+  # ✨Display✨:
+
+  <p>
+    มีอยู่ 5 ชนิด  <br>
+    <h3> ▶️<--inline-->◀️</h3>
+    1.inline  <br>
+    2.inline-block <br>
+   <h3>▶️<--block-->◀️</h3>
+    3.block <br>
+     
+  #
+
+  
+  4.flex 🔽<br>
+     <img src="https://github.com/user-attachments/assets/f77de6b0-81d4-4e87-984b-7c7ebc305de6" alt="explan about flex display" width="300">
+     <img src="https://github.com/user-attachments/assets/0979e61b-16a4-4ad0-837a-a544efaa47a7" width="300px" >
+     <img src="https://github.com/user-attachments/assets/faa2fb6d-5c2f-474f-8145-e4bef7440de7" width="300px" > <br>
+
+  #
+       
+  5.grid  <br>
+
+  ---
+
+  # ✨Block✨:
+  จัดการblockภายในของdisplay เช่น padding,margin
+  </p>
