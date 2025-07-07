@@ -43,3 +43,13 @@
   # ✨2.Block✨:
   จัดการblockภายในของdisplay เช่น padding,margin
   </p>
+
+  ---
+
+  # this website structure ✔️ <br>
+  ![image](https://github.com/user-attachments/assets/d8223751-6999-421e-9b2d-e5e68fd9c3f7)
+
+  # position <br>
+  ![image](https://github.com/user-attachments/assets/eca3906d-a95f-4958-b6c6-d42b51d7a4b2)
+
+
