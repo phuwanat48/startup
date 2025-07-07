@@ -41,7 +41,9 @@
   ---
 
   # ✨2.Block✨:
-  จัดการblockภายในของdisplay เช่น padding,margin
+  จัดการblockภายในของdisplay เช่น padding,margin <br>
+  padding คือ ภายใน <br>
+  margin คือด้านนอก
   </p>
 
   ---
