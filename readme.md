@@ -21,8 +21,8 @@
   <p>
     มีอยู่ 5 ชนิด  <br>
     <h3> ▶️<--inline-->◀️</h3>
-    1.inline  <br>
-    2.inline-block <br>
+    1.inline //กำหนดwidth-heightไม่ได้ <br>
+    2.inline-block //เพิ่มความสามารถกำหนดwidth-heightได้ <br>
    <h3>▶️<--block-->◀️</h3>
     3.block <br>
      
