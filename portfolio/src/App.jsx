@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.css'
 import { faArrowDown } from '@fortawesome/free-solid-svg-icons'
 import Resume from './assets/Resume.pdf'
+import { faFacebook, faGithub, faInstagram } from '@fortawesome/free-brands-svg-icons'
 
 
 function App() {
@@ -27,7 +28,11 @@ function App() {
           </div>
 
           <div>Nav</div>
-          <div className='flex items-end'>Link</div>
+          <div className='flex items-end gap-4'>
+            <FontAwesomeIcon className='text-2xl hover:scale-125' icon={faGithub} />
+            <FontAwesomeIcon className='text-2xl hover:scale-125' icon={faInstagram} />
+            <FontAwesomeIcon className='text-2xl hover:scale-125' icon={faFacebook} />
+          </div>
         </div>
       </div>
 
