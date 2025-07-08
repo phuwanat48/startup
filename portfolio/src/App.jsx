@@ -1,7 +1,8 @@
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.css'
-import { faArrowDown } from '@fortawesome/free-solid-svg-icons'
+import { faArrowDown} from '@fortawesome/free-solid-svg-icons'
+import {faFacebook, faGithub, faInstagram} from '@fortawesome/free-brands-svg-icons'
 import Resume from './assets/Resume.pdf'
 
 
@@ -27,7 +28,14 @@ function App() {
           </div>
 
           <div>Nav</div>
-          <div className='flex items-end'>Link</div>
+          <div className='flex items-end gap-4 text-2xl'>
+            
+            
+            <FontAwesomeIcon className='hover:scale-125' icon={faGithub}/>
+            <FontAwesomeIcon className='hover:scale-125' icon={faInstagram}/>
+            <FontAwesomeIcon className='hover:scale-125' icon={faFacebook}/>
+
+            </div>
         </div>
       </div>
 
