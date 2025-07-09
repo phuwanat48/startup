@@ -17,3 +17,6 @@
 
 }
 
+@custom-variant hover (&:hover);
+
+
